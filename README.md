@@ -4,6 +4,7 @@
 
 ### Link to the arXiv paper and study descriptions/specifications are coming soon!
 
+Questions? haejin2@illinois.edu
 
 
 
