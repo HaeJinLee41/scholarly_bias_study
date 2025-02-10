@@ -1,17 +1,20 @@
 # Paper Title
 
-- 
+- Gender disparity in citations in high-impact journal articles 
 
 # Study Specification
 
-- **Performance metric(s)**: 
-- **Code/Data accessibility**: 
+- **Performance metric(s)**: Number of citations
+- **Code/Data accessibility**: Not public: Contact the authors  
 
 # Corpus Profile
 Information  about  data 
 
-- **Domain**: 
-- **Data source**: 
+- **Domain**: Medicine
+- **Data source**: 5 high-impact medical (Annals of Internal Medicine, British Medical Journal
+   - JAMA
+   - JAMA Internal Medicine
+   - The New England Journal of Medicine)
 - **Corpus volume**: 
 - **Geographical scope**: 
 - **Temporal scope**: 
